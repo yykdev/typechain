@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/yykdev/typechain.git",
   "author": "yykdev <assavictory@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
 }
