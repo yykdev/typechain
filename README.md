@@ -26,9 +26,17 @@
 
 ## 준비 과정
 
-#### install
+#### typescript install
 
 > yarn add typescript / yarn global add typescript
+
+#### tsc-watch install
+
+> yarn add tsc-watch --dev
+
+```
+ts 파일이 변경 되는 즉시 빌드 해주는 라이브러리 (개발용으로 사용)
+```
 
 ---
 
