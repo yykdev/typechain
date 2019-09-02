@@ -1,5 +1,7 @@
 # [[ Nomadcoders ] Typescript로 블록체인 만들기 ](https://academy.nomadcoders.co/p/build-a-blockchain-with-typescript)
 
+## Typescript
+
 > Typescript 란?
 
 ```
@@ -19,6 +21,14 @@
 같은 에러일 지라도 런타임에서 발견 되는 것과 컴파일 타임에 발견 되어 개발자가
 보고, 판단하고, 수정 하는데 걸리는 시간이 다르다.
 ```
+
+---
+
+## 준비 과정
+
+#### install
+
+> yarn add typescript / yarn global add typescript
 
 ---
 
